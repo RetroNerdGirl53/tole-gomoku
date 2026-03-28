@@ -1,0 +1,11 @@
+k-means-clustering (finds clutered classes)
+logistical regression (classifies move types)
+
+read board
+compare against classes of moves
+
+use list of moves in class of moves to choose from which we will move
+
+
+features (what we train the logistic regression on)
+are the move value for a winning game
